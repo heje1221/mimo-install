@@ -7,7 +7,7 @@ Hiwalay na installer para sa **MiMoCode** — ang Xiaomi fork ng OpenCode para s
 **Isang command — deps + MiMoCode:**
 
 ```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/heje1221/mimo-install/master/install-mimo.sh) --bootstrap
+bash <(curl -fsSL https://raw.githubusercontent.com/heje1221/mimo-install/main/install-mimo.sh) --bootstrap
 ```
 
 Restart shell: `source ~/.bashrc`
